@@ -124,7 +124,7 @@ header {
   align-items: center;
   padding: 0px 10px;
   text-decoration: none;
-  background: rgba(66, 65, 65, 0.829);
+  background: #2d2e37b4;
   margin-bottom: 5px;
 }
 .search-box .search_result .card img{
